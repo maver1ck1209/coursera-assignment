@@ -1,0 +1,75 @@
+body{
+  font-family: 'Comfortaa', cursive;
+  font-size: 20px;
+  color: #000;
+  background-color: #fff;
+}
+
+/* HEADER */
+#header-nav {
+  background-color: #A9A9A9;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Comfortaa', cursive;
+  color: #000;
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+
+.sty{
+  font-family: 'Comfortaa', cursive;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+}
+h1{
+  text-align: center;
+}
+
+.menu-boxes{
+  width: auto;
+  height: auto;
+  border: 2px solid black;
+  margin: 1px;
+  margin-bottom: 20px;
+  font-family: 'Comfortaa', cursive;
+  color: #000;
+  background-color: #D8D8D8;
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+
+p{
+  margin: 1px;
+  font-family: 'Comfortaa', cursive;
+  font-size: 17px;
+}
+.com{
+  height: 1000px;
+  overflow: scroll;
+}
